@@ -1,4 +1,4 @@
-# SECR4483 SECURE PROGRAMMING 2023
+# SECR4483
 Secure Programming Course
 
 # Course Outline with Bloom's Taxonomy Alignment
