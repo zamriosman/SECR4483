@@ -1,5 +1,5 @@
 # SECR4483
-Secure Programming Course
+Secure Programming Course Information
 
 # Course Outline with Bloom's Taxonomy Alignment
 
